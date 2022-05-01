@@ -12,7 +12,7 @@ G##########
 url: https://JenGiffin.github.io 
 # baseurl is path to location on the domain if necessary e.g. /digital/hjccc
 # on GitHub Pages it is your github repository's name prefixed with a /
-baseurl: /PizzasVariations 
+baseurl: /PizzaVariations 
 # location of code, the full url to your github repository
 source-code: https://github.com/JenGiffin/PizzaVariations
 
@@ -35,7 +35,7 @@ author: Angelene Bauer, Jen Giffin, Troy Trafton
 #
 # Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: PizzaVariations - Sheet1
+metadata: PizzaVariations
 
 ##########
 # Site/Organization Branding 
