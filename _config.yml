@@ -9,32 +9,32 @@ G##########
 #
 # url is site domain, full URL to the production location of your collection
 # on GitHub Pages follows the pattern username.github.io
-url: "https://JenGiffin.github.io"
+url: https://jengiffin.github.io
 # baseurl is path to location on the domain if necessary e.g. /digital/hjccc
 # on GitHub Pages it is your github repository's name prefixed with a /
-baseurl: "/PizzaVariations"
+baseurl: /pizzavariations
 # location of code, the full url to your github repository
-source-code: "https://jengiffin.github.io/PizzaVariations/"
+source-code: https://jengiffin.github.io/pizzavariations
 
 ##########
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: "Around the World in 12 Pizzas" 
+title: Around the World in 12 Pizzas
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: "A Taste of Culture"
+tagline: A Taste of Culture
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "Welcome to our exhibit, “Around the World in 12 Pizzas.” Our exhibit includes photographs and recipes for different ways to make pizza that come from different cultures and countries around the world. Use our interactive map to discover pizzas from the United States to Korea. As you travel from pizza to pizza and country to country, read a little about the history of how each country created their own kinds of pizzas. With this exhibit, we hope to foster and appreciation for different cultures and countries. When you find the pizza that really makes your mouth water, use our recipes and try to make your own! Bon a petit!"
+description: "Welcome to our exhibit, 'Around the World in 12 Pizzas.' Our exhibit includes photographs and recipes for different ways to make pizza that come from different cultures and countries around the world. Use our interactive map to discover pizzas from the United States to Korea. As you travel from pizza to pizza and country to country, read a little about the history of how each country created their own kinds of pizzas. With this exhibit, we hope to foster and appreciation for different cultures and countries. When you find the pizza that really makes your mouth water, use our recipes and try to make your own! Bon a petit!"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: "Angelene Bauer, Jen Giffin, Troy Trafton"
+author: Angelene Bauer, Jen Giffin, Troy Trafton
 
 ##########
 # COLLECTION SETTINGS
 #
 # Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: "PizzaVariations"
+metadata: PizzaVariations
 
 ##########
 # Site/Organization Branding 
@@ -61,7 +61,7 @@ metadata: "PizzaVariations"
 # ROBOTS EXCLUDE
 #
 # set noindex to true if you do NOT want Google to index your site
-noindex: "true"
+noindex: true 
 
 ##########
 # BUILD SETTINGS 
