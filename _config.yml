@@ -20,21 +20,22 @@ source-code: https://github.com/JenGiffin/PizzasVariations
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CollectionBuilder-GH 
+title: Around the World in 12 Pizzas 
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a template for creating simple digital exhibits
+tagline: A Taste of Culture
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
+description: "Welcome to our exhibit, “Around the World in 12 Pizzas.” Our exhibit includes photographs and recipes for different ways to make pizza that come from different cultures and countries around the world. Use our interactive map to discover pizzas from the United States to Korea. As you travel from pizza to pizza and country to country, read a little about the history of how each country created their own kinds of pizzas. With this exhibit, we hope to foster and appreciation for different cultures and countries. When you find the pizza that really makes your mouth water, use our recipes and try to make your own! Bon a petit!
+"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: Angelene Bauer, Jen Giffin, Troy Trafton
 
 ##########
 # COLLECTION SETTINGS
 #
 # Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: demo-metadata 
+metadata: PizzaVariations 
 
 ##########
 # Site/Organization Branding 
@@ -61,7 +62,7 @@ metadata: demo-metadata
 # ROBOTS EXCLUDE
 #
 # set noindex to true if you do NOT want Google to index your site
-# noindex: true 
+noindex: true 
 
 ##########
 # BUILD SETTINGS 
